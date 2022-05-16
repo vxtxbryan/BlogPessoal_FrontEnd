@@ -1,0 +1,14 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+    padding: 20px;
+    margin: auto;
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+
+.back{
+    background: linear-gradient(36deg, rgb(115, 71, 192) 8%, #2d67d2 80%)!important;
+}
